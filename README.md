@@ -2,7 +2,9 @@
 
 Fully responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS.
 
-Uses Stripe to manage payments, products, shipping rates, and the entire checkout process.
+Uses Stripe to manage payments, products, shipping rates, and the entire checkout process.<br>
+<a href='https://ecommerce-eshop.vercel.app/' target='_blank'>Demo</a>
+
 
 
 ![Capture2](https://user-images.githubusercontent.com/80768014/201521025-e91dc1b2-bd40-496d-9080-cb678c8c1452.PNG)
